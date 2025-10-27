@@ -1,4 +1,3 @@
-
 """
 Quick Runner Script - Run Both Parts of the Assignment
 This script helps you run both parts sequentially
