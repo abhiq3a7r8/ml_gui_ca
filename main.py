@@ -50,7 +50,7 @@ def check_files():
     
     required_files = [
         'optics_demo.py',
-        'main.py',
+        'run_all.py',
         'Mall_Customers.csv'
     ]
     
